@@ -1,2 +1,2 @@
 # Bikeshare
-Project for Udacity's nanodegree on data analysis fundamentals
+Project for Udacity's nanodegree on Data Analytics Fundamentals
