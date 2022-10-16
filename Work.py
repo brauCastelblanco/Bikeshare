@@ -45,8 +45,7 @@ def get_filters():
         else:
             print('There must be a typo, try again')
             continue   
-    # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
-
+    # get user input for city (chicago, new york city, washington).
 
     # get user input for month (all, january, february, ... , june)
 
